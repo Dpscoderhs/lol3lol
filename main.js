@@ -1,4 +1,6 @@
-function preload() {}
+function preload() {
+mustach= loadImage('https://postimg.cc/bsV5tR30');
+}
 
 function setup() {
     canvas = createCanvas(300, 300);
